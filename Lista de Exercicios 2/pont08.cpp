@@ -25,7 +25,6 @@ int main()
     p = &numero;
     
     cout << "valor de numero: " << *p << endl;
-    cout << "Valor armazenado no ponteiro: " << p << endl;
     cout << "endereco de numero: " << &numero << endl;
     cout << endl;
 
