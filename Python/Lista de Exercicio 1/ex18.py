@@ -35,4 +35,4 @@ elif(salario > 4000):
     print("Valor a adicionar: ", alicota)
     print("Salario Total: ",salarioLiquido)
 else:
-    print("!!!ERRO!!!ERRO!!!") 
+    print("!!!ERRO!!!ERRO!!!")

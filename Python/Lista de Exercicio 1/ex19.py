@@ -15,8 +15,8 @@ import os
 os.system('cls')
 
 num1 = float(input("Digite o primeiro numero: "))
-num2 = float(input("Digite o segundo numero: "))
 operacao = input("Digite a operação (+, -, *, /): ")
+num2 = float(input("Digite o segundo numero: "))
 
 if operacao == "+":
     resultado = num1 + num2

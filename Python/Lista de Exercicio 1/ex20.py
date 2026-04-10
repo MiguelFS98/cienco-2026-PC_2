@@ -29,5 +29,7 @@ elif(nomeUsuario != "admin" and senhaUsuario == "1234"):
     print("Usuario invalido!!!")
 elif(nomeUsuario == "admin" and senhaUsuario != "1234"):
     print("Senha invalida!!!")
+elif(nomeUsuario != "admin" and senhaUsuario != "1234"):
+    print("Usuario e Senha invalidos!!!")
 else:
     print("!!!ERRO!!!")
